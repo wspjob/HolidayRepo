@@ -1,0 +1,12 @@
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Infrastructure\bin\Debug\net8.0\HolidaySearch.Infrastructure.deps.json
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Infrastructure\bin\Debug\net8.0\HolidaySearch.Infrastructure.dll
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Infrastructure\bin\Debug\net8.0\HolidaySearch.Infrastructure.pdb
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Infrastructure\obj\Debug\net8.0\HolidaySearch.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Infrastructure\obj\Debug\net8.0\HolidaySearch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Infrastructure\obj\Debug\net8.0\HolidaySearch.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Infrastructure\obj\Debug\net8.0\HolidaySearch.Infrastructure.AssemblyInfo.cs
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Infrastructure\obj\Debug\net8.0\HolidaySearch.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Infrastructure\obj\Debug\net8.0\HolidaySearch.Infrastructure.dll
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Infrastructure\obj\Debug\net8.0\refint\HolidaySearch.Infrastructure.dll
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Infrastructure\obj\Debug\net8.0\HolidaySearch.Infrastructure.pdb
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Infrastructure\obj\Debug\net8.0\ref\HolidaySearch.Infrastructure.dll

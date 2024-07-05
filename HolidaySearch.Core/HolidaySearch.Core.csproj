@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	<ItemGroup>
+
+		<PackageReference Include="AutoMapper" Version="13.0.1" />
+		
+
+
+		<PackageReference Include="Flurl.Http" Version="4.0.2" />
+		<PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="8.0.6" />
+	</ItemGroup>
+
+
+	<ItemGroup>
+    <ProjectReference Include="..\HolidaySearch.Common\HolidaySearch.Common.csproj" />
+    <ProjectReference Include="..\HolidaySearch.Infrastructure\HolidaySearch.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

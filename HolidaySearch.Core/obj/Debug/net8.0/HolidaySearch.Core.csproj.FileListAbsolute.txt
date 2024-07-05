@@ -1,0 +1,17 @@
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Core\bin\Debug\net8.0\HolidaySearch.Core.deps.json
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Core\bin\Debug\net8.0\HolidaySearch.Core.dll
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Core\bin\Debug\net8.0\HolidaySearch.Core.pdb
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Core\bin\Debug\net8.0\HolidaySearch.Common.dll
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Core\bin\Debug\net8.0\HolidaySearch.Infrastructure.dll
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Core\bin\Debug\net8.0\HolidaySearch.Common.pdb
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Core\bin\Debug\net8.0\HolidaySearch.Infrastructure.pdb
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Core\obj\Debug\net8.0\HolidaySearch.Core.csproj.AssemblyReference.cache
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Core\obj\Debug\net8.0\HolidaySearch.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Core\obj\Debug\net8.0\HolidaySearch.Core.AssemblyInfoInputs.cache
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Core\obj\Debug\net8.0\HolidaySearch.Core.AssemblyInfo.cs
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Core\obj\Debug\net8.0\HolidaySearch.Core.csproj.CoreCompileInputs.cache
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Core\obj\Debug\net8.0\HolidayS.C5760988.Up2Date
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Core\obj\Debug\net8.0\HolidaySearch.Core.dll
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Core\obj\Debug\net8.0\refint\HolidaySearch.Core.dll
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Core\obj\Debug\net8.0\HolidaySearch.Core.pdb
+C:\Users\fixit\source\repos\HolidaySearch\HolidaySearch.Core\obj\Debug\net8.0\ref\HolidaySearch.Core.dll

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolidaySearch.API", "HolidaySearch.API\HolidaySearch.API.csproj", "{8AB6B076-5AE3-4498-931D-591FC040C136}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolidaySearch.Infrastructure", "HolidaySearch.Infrastructure\HolidaySearch.Infrastructure.csproj", "{C62370D3-661E-470D-9F92-DACA815F5E60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolidaySearch.Common", "HolidaySearch.Common\HolidaySearch.Common.csproj", "{7CAF8551-6E80-4B4F-8654-174243E8C1AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolidaySearch.Core", "HolidaySearch.Core\HolidaySearch.Core.csproj", "{DD74B002-2C2C-48BB-83B7-666A1F4FBE03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidaySearch.Business", "HolidaySearch.Business\HolidaySearch.Business.csproj", "{80432942-85F3-44D6-8FBE-F653790A28C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB6B076-5AE3-4498-931D-591FC040C136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB6B076-5AE3-4498-931D-591FC040C136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB6B076-5AE3-4498-931D-591FC040C136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB6B076-5AE3-4498-931D-591FC040C136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C62370D3-661E-470D-9F92-DACA815F5E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62370D3-661E-470D-9F92-DACA815F5E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62370D3-661E-470D-9F92-DACA815F5E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62370D3-661E-470D-9F92-DACA815F5E60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CAF8551-6E80-4B4F-8654-174243E8C1AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CAF8551-6E80-4B4F-8654-174243E8C1AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CAF8551-6E80-4B4F-8654-174243E8C1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CAF8551-6E80-4B4F-8654-174243E8C1AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD74B002-2C2C-48BB-83B7-666A1F4FBE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD74B002-2C2C-48BB-83B7-666A1F4FBE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD74B002-2C2C-48BB-83B7-666A1F4FBE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD74B002-2C2C-48BB-83B7-666A1F4FBE03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80432942-85F3-44D6-8FBE-F653790A28C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80432942-85F3-44D6-8FBE-F653790A28C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80432942-85F3-44D6-8FBE-F653790A28C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80432942-85F3-44D6-8FBE-F653790A28C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDB5B30D-161E-4470-8921-700CA932F5B7}
+	EndGlobalSection
+EndGlobal
